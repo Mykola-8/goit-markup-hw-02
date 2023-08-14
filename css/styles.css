@@ -46,8 +46,8 @@ address {
 
 .header-address-link {
   color: #434455;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
+  line-height: 24px;
+  letter-spacing: 0.32px;
 }
 
 .header-address-link:hover,
